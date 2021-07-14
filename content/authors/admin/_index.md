@@ -69,6 +69,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-THIS WEBSITE IS UNDER CONSTRUCTION!! Information may not be accurate
-
+I am an incoming PhD student at the Department of Mathematics at the [University of Toronto](https://www.math.toronto.edu/cms/). Previously, I pursued a Master's degree in Mathematics and Statistics at McGill University, where I explored self-affine and self-similar fractal sets, with a focus on dimension theory as well as the spectrum of the Laplacian on such sets. During this time, I was fortunate enough to be jointly supervised by professors [Dmitry Jakobson](https://www.math.mcgill.ca/jakobson/) and [Linan Chen](https://www.math.mcgill.ca/lnchen/). 
