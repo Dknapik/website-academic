@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: David Knapik
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student - Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Toronto
+  url: https://www.math.toronto.edu/cms/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: none
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Research Areas:
+- Research Area 1
+- Research Area 2
+- Research Area 3
 
 # Education to show in About widget
 education:
