@@ -20,7 +20,7 @@ bio: none
 interests:
 - Partial Differential Equations
 - Spectral Theory
-- Analysis
+- Inverse Problems
 
 # Education to show in About widget
 education:
