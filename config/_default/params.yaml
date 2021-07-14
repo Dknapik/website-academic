@@ -23,12 +23,12 @@ twitter: ''
 email: david.knapik@mail.mcgill.ca
 phone: 1-514-570-7314
 address:
-  street: 16 Tatra Way
-  city: Lake Placid
-  region: US
-  postcode: '12946'
-  country: United States
-  country_code: US
+  street: 805 Sherbrooke St. West
+  city: Montreal
+  region: QC
+  postcode: 'H3A 0B9'
+  country: Canada
+  country_code: CA
 
 
 # Site header
