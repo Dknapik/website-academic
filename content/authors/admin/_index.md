@@ -17,7 +17,7 @@ organizations:
 bio: none
 
 # Interests to show in About widget
-Research Interests:
+interests:
 - Partial Differential Equations
 - Spectral Theory
 - Analysis
