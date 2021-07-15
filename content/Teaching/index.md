@@ -1,21 +1,16 @@
 ---
-widget: blank
-headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
 title: Teaching and Grading Experience
-subtitle:
-weight: 40  # section position on page
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 view: 2
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
----
 
+design:
+  spacing:
+    padding: ["0","0","0","0"]
+    
+---
 ### McGill University:
 - Graduate Student Assistant, MATH 264 Advanced Calculus for Engineers *(April 2021 - May 2021)*
 - Graduate Student Assistant, MATH 263 Ordinary Differential Equations for Engineers *(Feb. 2021 - March 2021)*
