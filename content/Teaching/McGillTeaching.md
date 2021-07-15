@@ -5,10 +5,10 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: McGill
 subtitle:
-weight: 40  # section position on page
+weight: 2  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 ---
 - Graduate Student Assistant, MATH 264 Advanced Calculus for Engineers *(April 2021 - May 2021)*
 - Graduate Student Assistant, MATH 263 Ordinary Differential Equations for Engineers *(Feb. 2021 - March 2021)*
