@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: At McGill
-subtitle: All courses below use [MyCourses](https://www.mcgill.ca/mycourses/)
+subtitle: All courses below used [myCourses](https://www.mcgill.ca/mycourses/)
 weight: 2  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
