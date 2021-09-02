@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-No current news at the moment.
+I have moved to Toronto. Please note the change of address.
