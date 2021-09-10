@@ -10,4 +10,4 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-- Stay tuned for the second term (January 2021)
+- Please stay tuned for the second term. I am not working as a Teaching Assistant this Fall term.
