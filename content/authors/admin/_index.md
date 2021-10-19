@@ -33,7 +33,7 @@ education:
     year: 2021
   - course: BSc - Honours Applied Mathematics , Minor - Physics
     institution: McGill University
-    year: 2018
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
