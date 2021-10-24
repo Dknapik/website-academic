@@ -10,4 +10,4 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-- [Tutorial 1, 9/16/2020](https://www.mcgill.ca/mycourses/)
+- [Tutorial 1, 9/16/2020](https://github.com/Dknapik/website-academic/blob/master/content/Math254/TUT_SEP16.pdf)
