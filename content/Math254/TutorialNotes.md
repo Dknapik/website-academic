@@ -14,3 +14,4 @@ design:
 - [Tutorial 3 - 9/30/2020](https://github.com/Dknapik/website-academic/blob/master/content/Math254/TUT_SEP30.pdf)
 - [Tutorial 5 - 10/14/2020](https://github.com/Dknapik/website-academic/blob/master/content/Math254/TUT_OCT14.pdf)
 - [Tutorial 7 - 10/28/2020](https://github.com/Dknapik/website-academic/blob/master/content/Math254/TUT_OCT28.pdf)
+- [Tutorial 9 - 11/11/2020](https://github.com/Dknapik/website-academic/blob/master/content/Math254/TUT_NOV11.pdf)
