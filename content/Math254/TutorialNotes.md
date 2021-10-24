@@ -11,3 +11,4 @@ design:
   columns: '1'
 ---
 - [Tutorial 1 - 9/16/2020](https://github.com/Dknapik/website-academic/blob/master/content/Math254/TUT_SEP16.pdf)
+- [Tutorial 3 - 9/30/2020](https://github.com/Dknapik/website-academic/blob/master/content/Math254/TUT_SEP30.pdf)
