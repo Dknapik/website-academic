@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-I have moved to Toronto. Please note the change of address.
+Finals season! Good luck everyone.
