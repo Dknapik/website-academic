@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: At McGill
+title: At McGill University
 subtitle: All courses below used [myCourses](https://www.mcgill.ca/mycourses/)
 weight: 2  # section position on page
 design:
