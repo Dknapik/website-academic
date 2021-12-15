@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: At U of T
+title: At University of Toronto
 subtitle: Please refer to [Quercus](https://q.utoronto.ca/)
 weight: 1  # section position on page
 design:
