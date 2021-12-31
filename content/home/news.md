@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-Finals season! Good luck everyone.
+Happy new year!
