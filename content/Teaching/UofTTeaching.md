@@ -10,4 +10,4 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-
+- Graduate Teaching Assistant, MAT 136 Calculus 2 *(Jan. 2022 - April 2022)*
