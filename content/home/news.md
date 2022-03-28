@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-Happy new year and start of the winter semester!
+Good luck with finals!
