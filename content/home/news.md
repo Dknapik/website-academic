@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-Good luck with finals!
+Professor Rustum Choksi's undergraduate text in PDEs has been published. Check it out at the AMS - [Partial Differential Equations: A First Course](https://bookstore.ams.org/amstext-54/)
