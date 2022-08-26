@@ -11,3 +11,6 @@ design:
   columns: '1'
 ---
 Under construction
+
+# Room: TBA
+# Zoom link: TBA
