@@ -12,5 +12,10 @@ design:
 ---
 Under construction
 
-# Room: TBA
-# Zoom link: TBA
+## Room: TBA
+## Zoom link: TBA
+
+#### If you are interested in joining the mailing list or to give a talk, please email one of the organizers:
+- Xinze Li
+- David Knapik
+- Wenkui Du
