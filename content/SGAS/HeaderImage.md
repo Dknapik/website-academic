@@ -10,4 +10,4 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-![screen reader text](featured.png)
+![screen reader text](sgasv2.png)
