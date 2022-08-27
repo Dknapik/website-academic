@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: Student Geometry and Analysis Seminar
 subtitle: at the University of Toronto
-weight: 1  # section position on page
+weight: 2  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
