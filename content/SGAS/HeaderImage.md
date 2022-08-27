@@ -10,4 +10,10 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-->![alt text](sgasv2.png)<-
+<p align="center">
+
+  <img src="sgav2.png">
+  This is an image
+
+</p>
+
