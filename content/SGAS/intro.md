@@ -9,9 +9,9 @@ weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+image:
+  focal_point: "Center"
 ---
-![screen reader text](sgas.png)
-
 <span style="color:red"> *Please note that this page is under construction.* </span>
 
 ### **Room: tba**
