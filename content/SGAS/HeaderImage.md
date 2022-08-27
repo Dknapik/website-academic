@@ -10,7 +10,5 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<p align="center">
- ![sdf](sgasv2.png)
-</p>
+![image](sgasv2.png)
 
