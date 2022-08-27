@@ -6,6 +6,11 @@ headless: true
 title: Student Geometry and Analysis Seminar
 subtitle: at the University of Toronto
 featured_image: "/assets/media/sgas.png"
+image:
+  placement: 1
+  caption: 'Your caption here.'
+  focal_point: ''
+  preview_only: false
 weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
