@@ -11,6 +11,6 @@ design:
   columns: '1'
 ---
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Dknapik/website-academic/blob/master/content/SGAS/sgasv2.png">
+ ![](sgasv2.png)
 </p>
 
