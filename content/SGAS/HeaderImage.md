@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<p align="center">
-  ![alt text](sgasv2.png)
+<p align="center" width="100%">
+    <img width="33%" src="/content/sgas/sgasv2.png">
 </p>
 
