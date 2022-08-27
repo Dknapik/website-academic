@@ -1,5 +1,3 @@
-![screen reader text](sgas.png)
-
 ---
 widget: blank
 headless: true
