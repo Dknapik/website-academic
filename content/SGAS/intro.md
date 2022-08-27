@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-Please note that this page is under construction.
+<span style="color:red"> *Please note that this page is under construction.* </span>
 
 ## Room: TBA
 ## Zoom link: TBA
