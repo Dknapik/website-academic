@@ -15,7 +15,7 @@ Please note that this page is under construction.
 ## Room: TBA
 ## Zoom link: TBA
 
-#### If you are interested in joining the mailing list or to give a talk, please email one of the organizers:
+#### If you are interested in joining the mailing list or you would like to give a talk, please email one of the organizers:
 - Xinze Li (xbryanli.li@mail.utoronto.ca)
 - David Knapik (david.knapik@mail.utoronto.ca)
 - Wenkui Du (wenkui.du@mail.utoronto.ca)
