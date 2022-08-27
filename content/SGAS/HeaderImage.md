@@ -10,5 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-| I am text to the left  | ![Flowers](sgasv2.png) |
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Dknapik/website-academic/blob/master/content/SGAS/sgasv2.png">
+</p>
 
