@@ -11,6 +11,6 @@ design:
   columns: '1'
 ---
 <p align="center" width="100%">
-    <img width="33%" src="/content/sgas/sgasv2.png">
+    <img width="33%" src="/content/SGAS/sgasv2.png">
 </p>
 
