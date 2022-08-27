@@ -12,8 +12,8 @@ design:
 ---
 <span style="color:red"> *Please note that this page is under construction.* </span>
 
-## Room: TBA
-## Zoom link: TBA
+## **Room: TBA**
+## **Zoom link: TBA**
 
 #### If you are interested in joining the mailing list or you would like to give a talk, please email one of the organizers:
 - Xinze Li (xbryanli.li@mail.utoronto.ca)
