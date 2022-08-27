@@ -10,6 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
+[<img src="sgasv2.png"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:25%">](sgasv2.png)
 <span style="color:red"> *Please note that this page is under construction.* </span>
 
 ### **Room: tba**
