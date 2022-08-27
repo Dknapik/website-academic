@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: false
+headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Student Geometry and Analysis Seminar
@@ -9,8 +9,6 @@ weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-image:
-  focal_point: "Center"
 ---
 <span style="color:red"> *Please note that this page is under construction.* </span>
 
