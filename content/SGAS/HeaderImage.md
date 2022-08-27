@@ -11,6 +11,6 @@ design:
   columns: '1'
 ---
 <p align="center">
- ![](sgasv2.png)
+ ![sdf](sgasv2.png)
 </p>
 
