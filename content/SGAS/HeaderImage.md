@@ -10,4 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-![screen reader text](sgasv2.png)
+<p align="center">
+  <img src='(sgasv2.png)" />
+</p>
+
