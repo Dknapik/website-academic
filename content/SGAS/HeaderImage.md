@@ -10,5 +10,5 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-[<img src="featured.png" width="75" align="center"/>](featured.png)
+[<img src="featured.png" width="100" align="center"/>](featured.png)
 
