@@ -10,7 +10,5 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](sgasv2.png)
-</div>
+| I am text to the left  | ![Flowers](sgasv2.png) |
 
