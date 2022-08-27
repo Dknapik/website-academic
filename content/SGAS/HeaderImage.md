@@ -11,9 +11,6 @@ design:
   columns: '1'
 ---
 <p align="center">
-
-  <img src="sgav2.png">
-  This is an image
-
+  ![alt text](sgasv2.png)
 </p>
 
