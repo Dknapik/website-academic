@@ -18,4 +18,4 @@ Please note that this page is under construction.
 #### If you are interested in joining the mailing list or to give a talk, please email one of the organizers:
 - Xinze Li
 - David Knapik (david.knapik@mail.utoronto.ca)
-- Wenkui Du
+- Wenkui Du (wenkui.du@mail.utoronto.ca)
