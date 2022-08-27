@@ -11,6 +11,6 @@ design:
   columns: '1'
 ---
 [<img src="featured.png"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">](featured.png)
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:25%">](featured.png)
 
 
