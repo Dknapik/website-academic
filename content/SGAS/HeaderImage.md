@@ -10,5 +10,5 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-![image](sgasv2.png)
+![image](featured.png)
 
