@@ -19,6 +19,7 @@ Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the Uni
 - Differential Geometry
   - Geometric flows (mean curvature flow, Ricci flow)
   - Symplectic Geometry (Floer homology, geometric invariants such as Gromov-Witten, )
+ - Dynamical systems/applications in geometry
 
 ---
 ### **Room: tba**
