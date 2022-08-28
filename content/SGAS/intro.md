@@ -14,6 +14,11 @@ design:
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:25%">](sgasv2.png)
 <span style="color:red"> *Please note that this page is under construction.* </span>
 
+Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the University of Toronto. This seminar's topics focus on the interplay between geometry and analysis and include (but are not restricted to):
+- Calculus of variations
+- 2
+- 3
+
 ### **Room: tba**
 ### **Zoom link: https://utoronto.zoom.us/j/7275853706**
 
