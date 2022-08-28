@@ -19,6 +19,7 @@ Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the Uni
 - 2
 - 3
 
+---
 ### **Room: tba**
 ### **Zoom link: https://utoronto.zoom.us/j/7275853706**
 
