@@ -19,8 +19,8 @@ bio: none
 # Interests to show in About widget
 interests:
 - Partial Differential Equations
-- Spectral Theory
 - Inverse Problems
+- Spectral Theory
 
 # Education to show in About widget
 education:
