@@ -15,7 +15,12 @@ design:
 <span style="color:red"> *Please note that this page is under construction.* </span>
 
 Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the University of Toronto. This seminar's wide range of topics focuses on the interplay between geometry and analysis and includes (but is not limited to):
-- s
+- Analysis & PDEs (microlocal analysis, nonlinear PDEs, inverse problems, geometric measure theory, optimal transport, stochastic analysis)
+- Differential Geometry
+  - Riemannian-Lorentzian Geometry (quantative geometry and metric geometry on Ricci and scalar curvature, general relativity)
+  - Geometric Analysis (Ricci flow, (gradient and skew) mean curvature flows, minimal surfaces, Kaler Einstein metric, CSCK metric)
+  - Symplectic Geometry (Floer homology and geometric invariants, geometric fluids and Halmitonian system)
+- Dynamical systems (geodesic flow and other dynamical applications in geometry)
 
 ---
 ### **Room: tba**
