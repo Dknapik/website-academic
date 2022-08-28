@@ -19,7 +19,7 @@ Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the Uni
 - Differential Geometry
   - Riemannian-Lorentzian Geometry (quantative geometry and metric geometry on Ricci and scalar curvature, general relativity)
   - Geometric Analysis (Ricci flow, (gradient and skew) mean curvature flows, minimal surfaces, Kaler Einstein metric, CSCK metric)
-  - Symplectic Geometry (Floer homology and geometric invariants, geometric fluids and Halmitonian system)
+  - Symplectic Geometry (Floer homology and geometric invariants, geometric fluids and Hamiltonian systems)
 - Dynamical systems (geodesic flow and other dynamical applications in geometry)
 
 ---
