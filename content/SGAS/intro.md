@@ -18,6 +18,7 @@ Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the Uni
 - Calculus of variations
 - 2
 - 3
+- 4
 
 ---
 ### **Room: tba**
