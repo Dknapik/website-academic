@@ -16,7 +16,8 @@ design:
 
 Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the University of Toronto. This seminar's topics focus on the interplay between geometry and analysis and include (but are not limited to):
 - Analysis & PDEs (microlocal analysis and its application in geometric inverse problems, geometric measure theory, singularities and dynamics of nonlinear PDEs, stochastic analysis on manifolds)
-- Differential Geometry (geometric flows - mean curvature flow, Ricci flow)
+- Differential Geometry
+  - Geometric flows - mean curvature flow, Ricci flow
 
 ---
 ### **Room: tba**
