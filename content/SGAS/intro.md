@@ -23,7 +23,8 @@ Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the Uni
 - Dynamical systems : *geodesic flow and other dynamical applications in geometry*
 ---
 
-### **Room: tba** (please note that some talks may be online only)
+### **Room: tba**
+(please note that some talks may be online only)
 ### **Zoom link: https://utoronto.zoom.us/j/7275853706**
 
 #### If you are interested in joining the mailing list or you would like to give a talk, please email one of the organizers:
