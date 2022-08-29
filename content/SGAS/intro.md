@@ -18,7 +18,7 @@ Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the Uni
 - Analysis & PDEs : *microlocal analysis, nonlinear PDEs, inverse problems, geometric measure theory, optimal transport, stochastic analysis*
 - Differential Geometry
   - Riemannian-Lorentzian Geometry : *quantitative geometry and metric geometry on Ricci and scalar curvature, general relativity*
-  - Geometric Analysis : *Ricci flow, (gradient and skew) mean curvature flows, minimal surfaces, K\"ahler-Einstein metric, CSCK metric*
+  - Geometric Analysis : *Ricci flow, (gradient and skew) mean curvature flows, minimal surfaces, Kähler-Einstein metric, CSCK metric*
   - Symplectic Geometry : *Floer homology and geometric invariants, geometric fluids and Hamiltonian systems*
 - Dynamical systems : *geodesic flow and other dynamical applications in geometry*
 ---
