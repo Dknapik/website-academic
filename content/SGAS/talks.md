@@ -12,6 +12,6 @@ design:
 ---
 # Talks
 
-## [Date TBA] Minghao Miao (Nanjing University & Beijing International Center for Mathematical Research)
-### Kahler-Einstein metric on Fano manifold
+## [Date TBA] Minghao Miao (Nanjing University & BICMR)
+### *Kahler-Einstein metric on Fano manifold*
 In this talk, I will survey some recent progress of Yau-Tian-Donaldson conjecture, which relate certain algebro-geometric stability condition with the existence of Kahler-Einstein metric on Fano manifold. Another canonical metric, Kahler-Ricci soliton will also be discussed in a parallel setting.
