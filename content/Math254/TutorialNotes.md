@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Math 254 Honours Analysis 1 - Tutorial Notes
-subtitle: Here you will find the notes from my tutorials. Important remark - I alternated weeks with the other TA (for the other notes as well as the joint exam solutions please refer to MyCourses). If you happen find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
+subtitle: Here you will find the notes from my tutorials. Important remark - I alternated weeks with the other TA (for the other notes as well as the joint exam solutions please refer to MyCourses). If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
 weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
