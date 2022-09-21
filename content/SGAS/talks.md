@@ -14,7 +14,7 @@ design:
 
 ---
 
-**September 30: Aram Pooladian (NYU)**<br>
+**September 30: Aram-Alexandre Pooladian (NYU)**<br>
 <span style="color:red">*Leveraging entropic regularization to approximate optimal transport maps*</span><br>
 Optimal transport and its variants have gained significant interest over the past decade, primarily due to computational advancements by way of entropic regularization. In this talk, I will introduce the notions of regularized and unregularized optimal transport (for the squared-Euclidean cost, specifically), and talk about my recent work on approximating the optimal transport map, or Monge map, on the basis of entropic regularization. This is a foundational aspect of statistical optimal transport, which I will only mention briefly for the sake of motivation (joint work with Jon Niles-Weed)
 
