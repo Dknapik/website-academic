@@ -14,6 +14,12 @@ design:
 
 ---
 
+**September 21 & 23: Yushan Jiang (CUNY)**<br>
+<span style="color:red">*Dynamical Systems and Ergodic Theory: Some Topics Related to Subsurfaces in Three Manifolds*</span><br>
+Dynamical systems and ergodic theory have so many wonderful applications in different fields like geometry, topology, complex analysis, number theory and so on. One fantastic field which connects almost all such branches is hyperbolic geometry. In this talk, I will briefly introduce hyperbolic plane and space (2 & 3 dim) and some related dynamical systems (geodesic/frame flow and horocycle flow). Also I need to say a word about some terms in ergodic theory. Then I would like to talk (without proof) some famous applications in 3-manifolds theory (post-Thurston era). One is Surface Subgroup Conjecture (related to geodesic/frame flow and the famous Virtual Haken Conjecture). The other one is about the rigidity of the closures of immersed totally geodesic subsurfaces (related to unipotent group action and the famous Ratner theorems).
+
+---
+
 **September 16: Minghao Miao (Nanjing University & Beijing International Center for Mathematical Research)**<br> 
 <span style="color:red">*Kahler-Einstein metric on Fano manifold*</span><br>
 In this talk, I will survey some recent progress of Yau-Tian-Donaldson conjecture, which relate certain algebro-geometric stability condition with the existence of Kahler-Einstein metric on Fano manifold. Another canonical metric, Kahler-Ricci soliton will also be discussed in a parallel setting.
