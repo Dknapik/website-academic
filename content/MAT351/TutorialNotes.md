@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: MAT351 Partial Differential Equations - Tutorial Notes
-subtitle: Here you will find the notes from my tutorials. If you happen find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
+subtitle: Here you will find the notes from my tutorials. If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
 weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
