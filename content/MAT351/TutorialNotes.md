@@ -11,3 +11,4 @@ design:
   columns: '1'
 ---
 - [Tutorial 1 - 9/20/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP20.pdf)
+- [Tutorial 2 - 9/27/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP27.pdf)
