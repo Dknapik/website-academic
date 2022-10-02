@@ -9,6 +9,7 @@ weight: 1  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
----
-- Tutorial 2 - 9/28/2022 *To be posted*
+--- 
+
+- [Tutorial 2 - 9/28/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT244/244TUT_SEP28.pdf)
 
