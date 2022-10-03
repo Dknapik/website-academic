@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: MAT351 Partial Differential Equations - Tutorial Notes
+title: 
 subtitle: Here you will find the notes from my tutorials. If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
 weight: 2  # section position on page
 design:
