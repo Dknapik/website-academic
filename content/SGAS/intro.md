@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 [<img src="NewSgas.png"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:25%">](NewSgas.png)
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%">](NewSgas.png)
      
 ---
 Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the University of Toronto. This seminar's wide range of topics focuses on the interplay between geometry and analysis and includes (but is not limited to):
