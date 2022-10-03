@@ -14,7 +14,7 @@ design:
      
 ---
 <span style="color:red">**Meetings:** Tuesdays 9:00-10:00am EST in room MY315 (Myhal Centre)</span><br>
-**Textbooks/references
+**Textbooks/references**
 - W. Strauss, *Partial Differential Equations: An Introduction*, 2nd edition, Wiley
 - R. Choksi, *Partial Differential Equations: A First Course*, AMS 2022
 
