@@ -10,8 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-[<img src="NewSgas.png"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%">](NewSgas.png)
+[<img src="SGASv4.png"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:25%">](SGASv4.png)
      
 ---
 Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the University of Toronto. This seminar's wide range of topics focuses on the interplay between geometry and analysis and includes (but is not limited to):
