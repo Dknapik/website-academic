@@ -13,5 +13,5 @@ design:
 
      
 ---
-Hello and welcome 
----
+Meetings: 9:00am EST on Tuesdays in room MY315 (Myhal Centre).
+
