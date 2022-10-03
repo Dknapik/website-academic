@@ -13,5 +13,5 @@ design:
 
      
 ---
-Meetings: Tuedays 9:00am EST in room MY315 (Myhal Centre).
+Meetings: Tuesdays 9:00am EST in room MY315 (Myhal Centre).
 
