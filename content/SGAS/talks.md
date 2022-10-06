@@ -14,6 +14,12 @@ design:
 
 ---
 
+**October 10: Jintian Zhu (Peking University & Beijing International Center for Mathematical Research)**<br>
+<span style="color:red">*Recent developments in positive mass theorem and scalar curvature problems*</span><br>
+The classical Riemannian positive mass theorem states that an asymptotically flat manifold (asymptotic to the Euclidean space) with nonnegative scalar curvature has nonnegative ADM mass. In this talk, we shall make a discussion on its further generalizations for those manifolds, whose ends approach quotient spaces of Euclidean space, under an additional but necessary incompressible condition. 
+
+---
+
 **October 5: Wenkui Du (UofT)**<br>
 <span style="color:red">*Ancient solutions as singularity models of mean curvature flows*</span><br>
 Mean curvature flow in extrinsic geometry is the twin of Ricci flow in intrinsic geometry. MCF is expected to have many applications in geometry and topology as the sucessful applications of Ricci flow such as  Poincare conjecture, diffeomorphism sphere theorem, smale conjecture. To have applications, the key is to understand the singularity structure.  Ancient solutions appear as the blowup limit of singularities of mean curvature flow for  capturing the behavior of flow in a spacetime neighborhood of the singularities. The most important singularities are cylindrical singularities which are expected to be generic singularity under initial data perturbation. The ancient asymptotically cylindrical flows or ancient noncollapsed flows are singularity models perturbed from the cylindrical flows. I will survey the recent developments of classification of these ancient solutions of mean curvature flows.
