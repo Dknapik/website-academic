@@ -14,6 +14,12 @@ design:
 
 ---
 
+**October 25: Gabriel Rioux (Cornell University)**<br>
+Information to come.
+
+
+---
+
 **October 10: Jintian Zhu (Peking University & Beijing International Center for Mathematical Research)**<br>
 <span style="color:red">*Recent developments in positive mass theorem and scalar curvature problems*</span><br>
 The classical Riemannian positive mass theorem states that an asymptotically flat manifold (asymptotic to the Euclidean space) with nonnegative scalar curvature has nonnegative ADM mass. In this talk, we shall make a discussion on its further generalizations for those manifolds, whose ends approach quotient spaces of Euclidean space, under an additional but necessary incompressible condition. 
