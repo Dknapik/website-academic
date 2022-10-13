@@ -17,7 +17,7 @@ design:
 **October 25: Gabriel Rioux (Cornell University)**<br>
 This talk aims to highlight the role that optimal transport, information theory, and gradient flows have played in the study of geometry in metric measure spaces. To this effect, the seminal work of J. Lott, C. Villani, and K.-T. Sturm on extending the standard curvature-dimensions conditions on Riemannian manifolds to general metric measure spaces will be reviewed and some extensions of this work will be discussed.
 
-The driving force behind these developments is the interplay between the geometry of the optimal transport of probability measures on a metric measure space $(\mathcal X, d, \mu)$ and the geometric properties of <p><span class="math display">\[(\mathcal X, d, \mu)\]</span></p>$(\mathcal X, d, \mu)$, especially as it pertains to the properties of information functionals along geodesics in the space of probabilities.
+The driving force behind these developments is the interplay between the geometry of the optimal transport of probability measures on a metric measure space $(\mathcal X, d, \mu)$ and the geometric properties of $(\mathcal X, d, \mu)$, especially as it pertains to the properties of information functionals along geodesics in the space of probabilities.
 
 If time permits, an application of this theory to the construction of heat flows in nonsmooth spaces will be provided.
 
