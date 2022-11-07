@@ -14,6 +14,12 @@ design:
 
 ---
 
+**November 10: Fan Ye (Harvard University)**<br>
+<span style="color:red">*SU(2) representations of small Dehn surgeries on knots*</span><br>
+Kronheimer-Mrowka proved that the fundamental group of r-surgery on a nontrivial knot for |r|<=2 always has an irreducible SU(2) representation, which answered the property P conjecture affirmly. They asked the case of r=3 and 4. The case r=4 was solved by Baldwin-Sivek and the case r=3 was solved by Baldwin-Li-Sivek-Ye. In this talk, I will describe the strategy of the proofs using instanton Floer homology.
+
+---
+
 **October 25: Gabriel Rioux (Cornell University)**<br>
 <span style="color:red">*Aspects of Ricci curvature bounds on metric measure spaces*</span><br>
 This talk aims to highlight the role that optimal transport, information theory, and gradient flows have played in the study of geometry in metric measure spaces. To this effect, the seminal work of J. Lott, C. Villani, and K.-T. Sturm on extending the standard curvature-dimensions conditions on Riemannian manifolds to general metric measure spaces will be reviewed and some extensions of this work will be discussed.
