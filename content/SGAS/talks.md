@@ -14,6 +14,15 @@ design:
 
 ---
 
+**November 17: Damien Tageddine (McGill University)**<br>
+<span style="color:red">*Noncommutative differential geometry on infinitesimal spaces*</span><br>
+Noncommutative differential geometry is a most prominent realization of noncommutative geometry. In this talk, we will show how the noncommutative analogue of spin
+geometry in terms of generalized Dirac operators $D$ acting on a representation space of an algebra $A$ can extend classical differential geometry to nonmanifold like spaces. We start with a brief review of inverse limit of posets as an approximation of a topological space. We then show how to associate a $C*$-algebra over a poset,
+giving it a piecewise-linear structure. Furthermore, we explain how dually the algebra of continuous function $C(M)$ over a manifold $M$ can
+be approximated by a direct limit of $C*$-algebras over posets. Finally, we prove how classical differential calculus is recovered as the spectrum of the commutator with a Dirac operator.
+
+---
+
 **November 10: Fan Ye (Harvard University)**<br>
 <span style="color:red">*SU(2) representations of small Dehn surgeries on knots*</span><br>
 Kronheimer-Mrowka proved that the fundamental group of r-surgery on a nontrivial knot for |r|<=2 always has an irreducible SU(2) representation, which answered the property P conjecture affirmly. They asked the case of r=3 and 4. The case r=4 was solved by Baldwin-Sivek and the case r=3 was solved by Baldwin-Li-Sivek-Ye. In this talk, I will describe the strategy of the proofs using instanton Floer homology.
