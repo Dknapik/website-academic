@@ -20,3 +20,4 @@ Here you will find the notes from my tutorials. If you find any errors, please f
 - [Tutorial 5 - 10/18/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_OCT18.pdf)
 - [Tutorial 6 - 10/25/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_OCT25.pdf)
 - [Tutorial 7 - 11/1/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV1.pdf)
+- [Tutorial 8 - 11/15/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV15.pdf)
