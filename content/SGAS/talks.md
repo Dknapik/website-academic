@@ -14,6 +14,18 @@ design:
 
 ---
 
+**November 21: Tracey Balehowsky (University of Calgary)**<br>
+<span style="color:red">*An Inverse Problem for the Relativistic Boltzmann Equation*</span><br>
+In this talk, we consider the following problem: Given the source-to-solution map for a relativistic Boltzmann equation on a neighbourhood $V$ of an observer in a Lorentzian spacetime $(M,g)$ and knowledge of $g|\_V$, can we determine (up to diffeomorphism) the spacetime metric $g$ on the domain of causal influence for the set $V$?
+
+We will show that the answer is yes. The problem we consider is a so-called inverse problem. We will first introduce the notion of an inverse problem. Then, we will present the motivation for our inverse problem. Next, we introduce the relativistic Boltzmann equation and comment on the existence of solutions to this PDE given some initial data. We then will comment on a key idea of the proof of our result.
+
+The key point presented is that the nonlinear term in the relativistic Boltzmann equation which describes the behaviour of particle collisions captures information about a source-to-solution map for a related linearized problem. We use this relationship together with an analysis of the behaviour of particle collisions by classical microlocal techniques to determine the set of locations in $V$ where we first receive light particle signals from collisions in the unknown domain. From this data we are able to parametrize the unknown region and determine the metric.
+
+The results presented in this talk are [joint work](https://arxiv.org/abs/2011.09312) with Antti Kujanpää, Matti Lassas, and Tony Liimatainen.
+
+---
+
 **November 17: Damien Tageddine (McGill University)**<br>
 <span style="color:red">*Noncommutative differential geometry on infinitesimal spaces*</span><br>
 Noncommutative differential geometry is a most prominent realization of noncommutative geometry. In this talk, we will show how the noncommutative analogue of spin
@@ -35,7 +47,6 @@ This talk aims to highlight the role that optimal transport, information theory,
 The driving force behind these developments is the interplay between the geometry of the optimal transport of probability measures on a metric measure space $(\mathcal X, d, \mu)$ and the geometric properties of $(\mathcal X, d, \mu)$, especially as it pertains to the properties of information functionals along geodesics in the space of probabilities.
 
 If time permits, an application of this theory to the construction of heat flows in nonsmooth spaces will be provided.
-
 
 ---
 
