@@ -14,6 +14,12 @@ design:
 
 ---
 
+**November 25: Yang Yang (University of California Irvine)**<br>
+<span style="color:red">*The anisotropic Bernstein problem*</span><br>
+The Bernstein problem asks whether entire minimal graphs in R^{n+1} are necessarily hyperplanes. It is known through spectacular work of Bernstein, Fleming, De Giorgi, Almgren, Simons, and Bombieri-De Giorgi-Giusti that the answer is positive if and only if n < 8. The anisotropic Bernstein problem asks the same question about minimizers of parametric elliptic functionals, which are natural generalizations of the area functional that both arise in many applications, and offer important technical challenges. We will discuss the recent solution of this problem (the answer is positive if and only if n < 4). This is joint work with C. Mooney
+
+---
+
 **November 21: Tracey Balehowsky (University of Calgary)**<br>
 <span style="color:red">*An Inverse Problem for the Relativistic Boltzmann Equation*</span><br>
 In this talk, we consider the following problem: Given the source-to-solution map for a relativistic Boltzmann equation on a neighbourhood $V$ of an observer in a Lorentzian spacetime $(M,g)$ and knowledge of $g|\_V$, can we determine (up to diffeomorphism) the spacetime metric $g$ on the domain of causal influence for the set $V$?
