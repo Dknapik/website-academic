@@ -22,3 +22,4 @@ Here you will find the notes from my tutorials. If you find any errors, please f
 - [Tutorial 7 - 11/1/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV1.pdf)
 - [Tutorial 8 - 11/15/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV15.pdf)
 - Tutorial 9 - 11/22/2022: Term test review/ office hours (no typed notes given)
+- [Tutorial 10 - 11/29/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV29.pdf)
