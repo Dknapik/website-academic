@@ -14,6 +14,12 @@ design:
 
 ---
 
+**December 1: Ilia Kirillov (University of Toronto)**<br>
+<span style="color:red">*Geometric Hydrodynamics and Curvatures of Diffeomorphism Groups*</span><br>
+In this talk I will explain the basics of geometric hydrodynamics (pioneered by V. Arnold) and its relation to sectional curvatures of L^2 metric on a group of volume-preserving diffeomorphisms.
+
+---
+
 **November 25: Yang Yang (University of California Irvine)**<br>
 <span style="color:red">*The anisotropic Bernstein problem*</span><br>
 The Bernstein problem asks whether entire minimal graphs in R^{n+1} are necessarily hyperplanes. It is known through spectacular work of Bernstein, Fleming, De Giorgi, Almgren, Simons, and Bombieri-De Giorgi-Giusti that the answer is positive if and only if n < 8. The anisotropic Bernstein problem asks the same question about minimizers of parametric elliptic functionals, which are natural generalizations of the area functional that both arise in many applications, and offer important technical challenges. We will discuss the recent solution of this problem (the answer is positive if and only if n < 4). This is joint work with C. Mooney
