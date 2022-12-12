@@ -14,7 +14,7 @@ design:
 
 ---
 
-**December 13: Jingze Zhu (MIT)**<br>
+**December 13: Jingze Zhu (Massachusetts Institute of Technology)**<br>
 <span style="color:red">*Bamler’s synthetic Ricci flow*</span><br>
 In this talk, we will overview Bamler's theory of synthetic Ricci flow. We will discuss the definition of metric flow and F-convergence of metric flows, then we will overview the compactness and partial regularity theory of metric flow. Finally we will discuss how the theory is applied to study singularity formation of Ricci flow in higher dimensions.
 
