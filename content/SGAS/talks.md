@@ -14,6 +14,12 @@ design:
 
 ---
 
+**December 13: Jingze Zhu (MIT)**<br>
+<span style="color:red">*Bamler’s synthetic Ricci flow*</span><br>
+In this talk, we will overview Bamler's theory of synthetic Ricci flow. We will discuss the definition of metric flow and F-convergence of metric flows, then we will overview the compactness and partial regularity theory of metric flow. Finally we will discuss how the theory is applied to study singularity formation of Ricci flow in higher dimensions.
+
+---
+
 **December 1: Ilia Kirillov (University of Toronto)**<br>
 <span style="color:red">*Geometric Hydrodynamics and Curvatures of Diffeomorphism Groups*</span><br>
 In this talk I will explain the basics of geometric hydrodynamics (pioneered by V. Arnold) and its relation to sectional curvatures of L^2 metric on a group of volume-preserving diffeomorphisms.
