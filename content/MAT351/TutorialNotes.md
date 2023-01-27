@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 # Tutorial Notes
-Here you will find the notes from my tutorials. If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
+Here you will find any notes from my tutorials (for some tutorials supplementary materials may not be provided, so please make sure to attend). If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
 
 - [Tutorial 1 - 9/20/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP20.pdf)
 - [Tutorial 2 - 9/27/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP27.pdf)
@@ -25,3 +25,4 @@ Here you will find the notes from my tutorials. If you find any errors, please f
 - [Tutorial 10 - 11/29/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV29.pdf)
 - [Tutorial 11 - 12/6/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_DEC6.pdf)
 - Tutorial 12 - 1/13/2023: Selected problems from Strauss 7.1-7.3 that are not covered in the homework (no typed notes given)
+- Tutorial 13 - 1/20/2023: Green's function for the ball (no typed notes given)
