@@ -24,5 +24,8 @@ Here you will find any notes from my tutorials (for some tutorials supplementary
 - Tutorial 9 - 11/22/2022: Term test review/ office hours
 - [Tutorial 10 - 11/29/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV29.pdf)
 - [Tutorial 11 - 12/6/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_DEC6.pdf)
-- Tutorial 12 - 1/13/2023: Selected problems from Strauss 7.1-7.3 that are not covered in the homework
-- Tutorial 13 - 1/20/2023: Strauss 7.4, Green's function for the ball
+- Tutorial 12 - 1/13/2023: Selected exercises from Strauss 7.1-7.3 that are not covered in the homework
+- Tutorial 13 - 1/20/2023: Strauss 7.4, Green's function for the ball, solution formula for Dirichlet problem
+- Tutorial 14 - 1/27/2023
+- Tutorial 15 - 2/3/2023: Selected exercises from Strauss 9.1-9.2 that are not covered in the homework
+- Tutorial 16 - 2/10/2023: Selected exercises from Strauss 9.4
