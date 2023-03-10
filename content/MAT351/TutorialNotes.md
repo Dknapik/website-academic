@@ -30,3 +30,4 @@ Here you will find any notes from my tutorials (for some tutorials supplementary
 - Tutorial 15 - 2/3/2023: Selected exercises from Strauss 9.1-9.2 that are not covered in the homework
 - Tutorial 16 - 2/10/2023: Selected exercises from Strauss 9.4
 - Tutorial 17 - 2/17/2023: Selected exercises from Strauss chapter 6 and 9 (practice for term test 2).
+- Tutorial 18 - 3/3/2023: Strauss 11.1-11.2 with some selected exercises.
