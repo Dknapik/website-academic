@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 # Tutorials
-Here you will find information on what I covered in the tutorials. If a certain tutorial appears hyperlinked, you can click to find the typed notes. If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact). 
+Here you will find information on what I covered in the tutorials. If a tutorial appears hyperlinked (blue), you can click to find the typed notes. If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact). 
 
 - [Tutorial 1 - 9/20/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP20.pdf)
 - [Tutorial 2 - 9/27/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP27.pdf)
