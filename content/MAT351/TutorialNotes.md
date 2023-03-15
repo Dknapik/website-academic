@@ -10,8 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-# Tutorial Notes
-Here you will find any notes from my tutorials (for some tutorials supplementary materials may not be provided, so please make sure to attend). If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact).
+# Tutorials
+Here you will find information on what I covered in the tutorials. If a certain tutorial appears hyperlinked, you can click to find the typed notes. If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact). 
 
 - [Tutorial 1 - 9/20/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP20.pdf)
 - [Tutorial 2 - 9/27/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP27.pdf)
