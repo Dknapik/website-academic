@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 # Tutorials
-Here you will find information on what I covered in the tutorials. If a tutorial appears hyperlinked (blue), you can click to find the typed notes. If you find any errors, please feel free to [contact me](https://davidknapik.com/#contact). 
+Here you will find information on what I covered in the tutorials. If a tutorial appears hyperlinked (blue), you can click it to find the typed notes. If you happen to find any errors, please feel free to [contact me](https://davidknapik.com/#contact). 
 
 - [Tutorial 1 - 9/20/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP20.pdf)
 - [Tutorial 2 - 9/27/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_SEP27.pdf)
@@ -21,7 +21,7 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 - [Tutorial 6 - 10/25/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_OCT25.pdf)
 - [Tutorial 7 - 11/1/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV1.pdf)
 - [Tutorial 8 - 11/15/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV15.pdf)
-- Tutorial 9 - 11/22/2022: Term test review/ office hours
+- Tutorial 9 - 11/22/2022: Term test review & office hours
 - [Tutorial 10 - 11/29/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_NOV29.pdf)
 - [Tutorial 11 - 12/6/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT351/351TUT_DEC6.pdf)
 - Tutorial 12 - 1/13/2023: Selected exercises from Strauss 7.1-7.3 that are not covered in the homework
@@ -31,3 +31,6 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 - Tutorial 16 - 2/10/2023: Selected exercises from Strauss 9.4
 - Tutorial 17 - 2/17/2023: Selected exercises from Strauss chapter 6 and 9 (practice for term test 2).
 - Tutorial 18 - 3/3/2023: Strauss 11.1-11.2 with some selected exercises.
+- Tutorial 19 - 3/10/2023: Strauss 12.1 with some selected exercises. Also included examples from Chapter 5 of Choksi
+- Tutorial 20 - 3/17/2023: Strauss 12.1-12.3 with a focus on Fourier transforms.
+- Tutorial 21 - 3/24/2023:
