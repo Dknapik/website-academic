@@ -33,4 +33,5 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 - Tutorial 18 - 3/3/2023: Strauss 11.1-11.2 with some selected exercises.
 - Tutorial 19 - 3/10/2023: Strauss 12.1 with some selected exercises. Also included examples from Chapter 5 of Choksi
 - Tutorial 20 - 3/17/2023: Strauss 12.1-12.3 with a focus on Fourier transforms.
-- Tutorial 21 - 3/24/2023:
+- Tutorial 21 - 3/24/2023: Strauss 12.3-12.5 with selected exercises.
+- Tutorial 22 - 3/31/2023: Solving PDEs with transforms, Laplace transform, bilateral Laplace transform
