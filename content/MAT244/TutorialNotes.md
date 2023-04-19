@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 # Tutorial Notes
-Here you will find any notes from my tutorials (if provided; for most tutorials I will not be providing supplementary materials so please make sure to attend). If you find errors, please feel free to [contact me](https://davidknapik.com/#contact).
+Here you will find the typed notes for Tutorial 2 (for the other tutorials I will not be providing supplementary materials so please make sure to attend). If you find errors, please feel free to [contact me](https://davidknapik.com/#contact).
 
 - [Tutorial 2 - 9/28/2022](https://github.com/Dknapik/website-academic/blob/master/content/MAT244/244TUT_SEP28.pdf)
 
