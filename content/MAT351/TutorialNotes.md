@@ -35,3 +35,4 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 - Tutorial 20 - 3/17/2023: Strauss 12.1-12.3 with a focus on Fourier transforms.
 - Tutorial 21 - 3/24/2023: Strauss 12.3-12.5 with selected exercises.
 - Tutorial 22 - 3/31/2023: Solving PDEs with transforms, Laplace transform, bilateral Laplace transform
+- Tutorial 23 - 4/21/2023: Bonus review session for the final exam.
