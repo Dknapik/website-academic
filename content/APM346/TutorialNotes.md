@@ -12,3 +12,5 @@ design:
 ---
 # Tutorials
 Here you will find information on what I covered in the tutorials. If a tutorial appears hyperlinked (blue), you can click it to find the typed notes. If you happen to find any errors, please feel free to [contact me](https://davidknapik.com/#contact). 
+
+- Tutorial 1 - 5/16/2023: Introduction, wave equation via separation of variables examples
