@@ -14,4 +14,4 @@ design:
 Here you will find information on what I covered in the tutorials. If a tutorial appears hyperlinked (blue), you can click it to find the typed notes. If you happen to find any errors, please feel free to [contact me](https://davidknapik.com/#contact). 
 
 - Tutorial 1 - 5/16/2023: Introduction, wave equation via separation of variables examples
-- Tutorial 2 - 5/23/2023: Typed notes will be posted this weekend.
+- [Tutorial 2 - 5/23/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_MAY23.pdf)
