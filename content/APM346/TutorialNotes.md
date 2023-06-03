@@ -15,3 +15,4 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 
 - Tutorial 1 - 5/16/2023: Introduction, wave equation via separation of variables examples
 - [Tutorial 2 - 5/23/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_MAY23.pdf)
+- [Tutorial 3 - 5/30/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_MAY30.pdf)
