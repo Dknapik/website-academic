@@ -17,3 +17,4 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 - [Tutorial 2 - 5/23/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_MAY23.pdf)
 - [Tutorial 3 - 5/30/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_MAY30.pdf)
 - [Tutorial 4 - 6/6/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_JUNE6.pdf)
+- [Tutorial 5 - 6/13/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_JUNE13.pdf)
