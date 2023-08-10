@@ -22,4 +22,4 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 - [Tutorial 7 - 7/11/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_JULY11.pdf)
 - [Tutorial 8 - 7/18/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_JULY18.pdf)
 - [Tutorial 9 - 7/25/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_JULY25.pdf)
-- Tutorial 10 - 8/1/2023: Duhamel's Principle - heat equation and transport equation.
+- Tutorial 10 - 8/1/2023: Duhamel's Principle - heat equation and transport equation. The typed notes generously provided by Youssef Rachad can be found [here](https://github.com/Youssef-Rachad/PartialDifferentialEquations/blob/master/content/APM346/346TUT_AUG01.pdf)
