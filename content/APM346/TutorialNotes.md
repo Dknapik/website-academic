@@ -23,3 +23,5 @@ Here you will find information on what I covered in the tutorials. If a tutorial
 - [Tutorial 8 - 7/18/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_JULY18.pdf)
 - [Tutorial 9 - 7/25/2023](https://github.com/Dknapik/website-academic/blob/master/content/APM346/346TUT_JULY25.pdf)
 - Tutorial 10 - 8/1/2023: Duhamel's Principle - heat equation, transport equation. Typed notes generously provided by Youssef Rachad can be found [here](https://github.com/Youssef-Rachad/PartialDifferentialEquations/blob/master/content/APM346/346TUT_AUG01.pdf).
+- Tutorial 11 - 8/8/2023: Fourier Transform, convolution, solve DE with transform.
+- Tutorial 12 - 8/17/2023: Bonus review session for the final exam.
