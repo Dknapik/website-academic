@@ -26,4 +26,6 @@ Hello and welcome to the Student Geometry and Analysis Seminar (SGAS) at the Uni
 ### **Zoom link: https://utoronto.zoom.us/j/7275853706**
 #### If you are interested in joining the mailing list or you would like to give a talk, please email one of the organizers:
 - David Knapik (david.knapik@mail.utoronto.ca)
+- Yueheng Bao (bao624@math.toronto.edu)
+- Heyang Song (heyang.song@mail.utoronto.ca)
 - Xinze Li (xbryanli.li@mail.utoronto.ca)
