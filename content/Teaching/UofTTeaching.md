@@ -10,6 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
+- Course Instructor, MAT244 Introduction to Ordinary Differential Equations *(May 2024 - August 2024)* 
 - Graduate Teaching Assistant, APM346 Partial Differential Equations *(Jan. 2024 - April 2024)*
 - Graduate Teaching Assistant, MAT292 Ordinary Differential Equations for Engineering Science *(Sep. 2023 - Dec. 2023)*
 - [Graduate Teaching Assistant, APM346 Partial Differential Equations *(May 2023 - August 2023)*](https://davidknapik.com/apm346/)
