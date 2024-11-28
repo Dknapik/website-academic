@@ -25,9 +25,9 @@ main:
   - name: Teaching
     url: '/Teaching'
     weight: 30
-  - name: SGAS
-    url: '/SGAS'
-    weight: 40
+  #- name: SGAS      Now co-organizing different seminar through dept.
+    #url: '/SGAS'
+    #weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
